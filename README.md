@@ -46,5 +46,7 @@ I am a someone that is learning Web Development <img src="https://media.giphy.co
 
 ---
 ### My Git Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NEChapters&theme=github-dark-blue&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NEChapters&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=NEChapters&theme=github-dark-blue&hide_border=true?count_private=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<!---
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NEChapters&layout=compact&theme=github-dark-blue?count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+--->
