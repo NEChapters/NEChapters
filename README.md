@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-  <a href="https://media.giphy.com/media/KoNYPNsRlbkCWD2ykO/giphy.gif"><img width="20%"  src="https://media.giphy.com/media/KoNYPNsRlbkCWD2ykO/giphy.gif"></a>
+  <a href="https://media.giphy.com/media/KoNYPNsRlbkCWD2ykO/giphy.gif"><img width="40%"  src="https://media.giphy.com/media/KoNYPNsRlbkCWD2ykO/giphy.gif"></a>
 </p>
 
 <p align="center" width="100%">
@@ -24,8 +24,8 @@
  </p>
 
 <h1 align="center" width="100%">
- Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="3.5%"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20%"/>
+  Hey there
  </h1>
 
 <p align="center" width="100%">
@@ -36,7 +36,7 @@
 
 ### :technologist: About Me :
 
-I am a someone that is learning Web Development <img src="https://media.giphy.com/media/UQ1EI1ML2ABQdbebup/giphy.gif" width="15%">from the U S of A
+I am a someone that is learning Web Development from the U S of A <img src="https://media.giphy.com/media/UQ1EI1ML2ABQdbebup/giphy.gif" width="15%">
 - :timer_clock: In my free time, I am learning Web Dev and discord bot dev
 - :mailbox: How to reach me: [Discord](https://discord.com/users/244920282333184001)
 
