@@ -37,12 +37,8 @@
 ### :technologist: About Me :
 
 I am a someone that is learning Web Development <img src="https://media.giphy.com/media/UQ1EI1ML2ABQdbebup/giphy.gif" width="3%"> from the U S of A
-- :timer_clock: In my free time, I help around on the [Voipet Discord](https://discord.gg/voidpet)
+- :timer_clock: In my free time, I am learning Web Dev and discord bot dev
 - :mailbox: How to reach me: [Discord](https://discord.com/users/244920282333184001)
-<!---
-- :telescope: I’m working as a .
-- :blue_book: Exploring . 
---->
 
 ---
 ### My Git Stats
